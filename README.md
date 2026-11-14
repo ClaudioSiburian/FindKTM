@@ -1,10 +1,8 @@
-# FindKTM
-
 ## Kelompok 4
 
 Repository ini dibuat untuk memenuhi tugas Mata Kuliah **Teknologi Berkembang**.
 
-### Anggota Kelompok
+## Anggota Kelompok
 
 1. **Muhammad Aqzhara Fathyan Khairi** — 5026241053
 2. **Yustisio Priyatno** — 5026241104
